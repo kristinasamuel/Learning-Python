@@ -93,11 +93,3 @@ Mobiles_Phone.insert(1,"Nokia")
 print(Mobiles_Phone)       # output ['Samsung', 'Nokia', 'Iphone', 'Redmi']
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-
-
-
-
-
-
